@@ -1,10 +1,20 @@
-### Hi there 👋
+
+<img align="right" height="590em"
+  src="https://raw.githubusercontent.com/gist/viicentin/25c3d2520150eb786e33a0c6378a0303/raw/78ce10d19aee32e5a7aa669493df897709c95f4a/banner.svg"/>
+  <h1 align="left">Hey there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUyZjl2N2lic28xZnp5dmc1c3B6aTV1cnJtd2c3emZ1Z2U1ZnZkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0354MN9EsW2evroWz/giphy.gif" height="30px"> </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viicentin&color=green" alt="Profile views" /> </p>
+
+
+ -  ✨ Junior Web Developer focused on learning Java (help)
+ -  ⚡ Fun fact: I suck at Valorant
+ -  👨‍💻 How to reach me: 
 
 <!--
-**viicentin/viicentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**viicentin/viicentin** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+✨ Junior Web Developer
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
