@@ -1,26 +1,27 @@
+![Banner Alt Text](https://github.com/viicentin/viicentin/blob/main/Frame%2012.png?raw=true))
 
-<img align="right" height="590em"
-  src="https://raw.githubusercontent.com/gist/viicentin/25c3d2520150eb786e33a0c6378a0303/raw/78ce10d19aee32e5a7aa669493df897709c95f4a/banner.svg"/>
   <h1 align="left">Hey there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUyZjl2N2lic28xZnp5dmc1c3B6aTV1cnJtd2c3emZ1Z2U1ZnZkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0354MN9EsW2evroWz/giphy.gif" height="30px"> </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viicentin&color=green" alt="Profile views" /> </p>
 
+I'm a junior developer passionate about JavaScript, with a focus on Node.js and React. 🚀 I'm at the beginning of my career, but I'm eager to learn and grow!
 
- -  ✨ Junior Web Developer focused on learning Java (help)
- -  ⚡ Fun fact: I suck at Valorant
- -  👨‍💻 How to reach me: 
+### 💻 About me
+- **JavaScript** developer specializing in **Node.js** and **React**.
+- Always looking for new challenges and learning opportunities.
+- I love contributing to creating modern and functional user interfaces.
 
-<!--
-**viicentin/viicentin** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Hobbies
+- 🖌️ I enjoy **drawing** and **sculpting** in my free time.
+- 🎮 A huge fan of **video games**, always ready to try a new game.
+- 🐱 Obsessed with **cats** (I have a few that often "help" during work).
+- 🌿 I care for many **plants**, which serve as a source of inspiration.
 
-Here are some ideas to get you started:
-✨ Junior Web Developer
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Always learning:
+- Improving my skills in **back-end** and **front-end** development.
+- Exploring new technologies and tools in the **JavaScript** ecosystem.
+
+### 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/carolinavicentin/)
+- [Instagram](https://www.instagram.com/viicentin/)
+
