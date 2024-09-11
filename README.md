@@ -1,4 +1,4 @@
-![Banner Alt Text](https://github.com/viicentin/viicentin/blob/main/Frame%2012.png?raw=true))
+![Banner Alt Text](https://github.com/viicentin/viicentin/blob/main/Frame%2012.png?raw=true)
 
   <h1 align="left">Hey there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUyZjl2N2lic28xZnp5dmc1c3B6aTV1cnJtd2c3emZ1Z2U1ZnZkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0354MN9EsW2evroWz/giphy.gif" height="30px"> </h1>
 
